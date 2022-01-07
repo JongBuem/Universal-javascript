@@ -1,0 +1,20 @@
+{
+    "name": "node",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "babel-preset-react": "^6.24.1",
+        "babel-register": "^6.26.0",
+        "ejs": "^3.1.6",
+        "errorhandler": "^1.5.1",
+        "express": "^4.17.2",
+        "react": "^17.0.2",
+        "react-dom": "^17.0.2"
+    }
+}
